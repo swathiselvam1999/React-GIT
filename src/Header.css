@@ -1,0 +1,32 @@
+#logo{
+    font-size: 40px;
+    color: white;
+    text-shadow: 5px 1px 10px lightgrey;
+    font-family:  cursive;
+    font-weight: bolder;
+  }
+  #logo img{
+    border-radius: 50%;
+  }
+  #navbar{
+    background-color: black;
+  }
+  .sweet{
+    color: pink;
+  }
+  .cake{
+    color : skyblue;
+  }
+  .nav-link{
+    margin-left: 40px;
+  }
+  .nav-link .nav-link-custom{
+    background: pink;
+    color: black;
+    font-size: large;
+  }
+  .nav-link .nav-link-custom:hover{
+    background: skyblue;
+    color: black;
+  }
+  

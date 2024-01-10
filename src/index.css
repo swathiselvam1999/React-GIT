@@ -5,9 +5,65 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: skyblue !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.price-tag {
+  background-color: black; 
+  color: pink; 
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.background-container {
+  background-color: #f0f0f0; 
+}
+.card {
+  background-color: lightpink; 
+  border: none; 
+  border-radius: 15px;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5); 
+  transition: box-shadow 0.3s ease-in-out; 
+}
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+.card-image {
+  border-radius: 10px; 
+}
+.custom-card-body {
+  background-color: rgba(255, 255, 255, 0.9); 
+  color: #333; 
+  padding: 20px;
+  border-radius: 0 0 10px 10px; 
+}
+#btn{
+  color: black;
+  background-color: pink;
+  border: none;
+  cursor: pointer;
+}
+#btn:hover{
+  color: pink;
+  background-color: black;
+}
+#footer{
+  background-color: black;
+  color: white;
+}
+
+.custom-card-body {
+  background-color: skyblue; 
+  color: #fff; 
+  padding: 20px;
+  border-radius: 0 0 10px 10px; 
+}
+
