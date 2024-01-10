@@ -50,6 +50,8 @@ code {
   background-color: pink;
   border: none;
   cursor: pointer;
+  margin-right: 29px;
+  margin-left: 27px;
 }
 #btn:hover{
   color: pink;

@@ -40,6 +40,8 @@ const Home = () => {
                 <Card.Text>{card.body}</Card.Text>
                 <div className="price-tag">{card.price}</div>
                 <Button id="btn" className='btn-block'>Order Now</Button>
+                <Button id="btn" className='btn-block'>Add to Cart</Button>
+
               </Card.Body>
             </Card>
           </Col>
