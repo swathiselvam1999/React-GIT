@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Git/static/css/main.5291c0ba.css",
+    "main.js": "/React-Git/static/js/main.892f8e26.js",
+    "static/media/img 2.jpg": "/React-Git/static/media/img 2.6778182afd3db6d62a5c.jpg",
+    "static/media/img 3.jpg": "/React-Git/static/media/img 3.c3560808a0a12468a106.jpg",
+    "static/media/img 6.jpg": "/React-Git/static/media/img 6.8626c33fd1a6838ebe38.jpg",
+    "static/media/img 4.jpg": "/React-Git/static/media/img 4.f02300695b38ab6f7ad7.jpg",
+    "static/media/img 1.jpg": "/React-Git/static/media/img 1.e1e5651c87a2c3430c70.jpg",
+    "static/media/img 7.jpg": "/React-Git/static/media/img 7.adbc15226ea596c8f9c3.jpg",
+    "static/media/logo.jpg": "/React-Git/static/media/logo.67731c8f180fb49dff3e.jpg",
+    "index.html": "/React-Git/index.html",
+    "main.5291c0ba.css.map": "/React-Git/static/css/main.5291c0ba.css.map",
+    "main.892f8e26.js.map": "/React-Git/static/js/main.892f8e26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5291c0ba.css",
+    "static/js/main.892f8e26.js"
+  ]
+}
