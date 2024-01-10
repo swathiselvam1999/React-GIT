@@ -5,7 +5,6 @@ import Home from './Home';
 import Footer from './Footer';
 import './Header.css'; 
 
-
 const App = () => {
   return (
     <div>
@@ -16,5 +15,4 @@ const App = () => {
     </div>
   );
 };
-
 export default App;
